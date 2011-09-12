@@ -8,4 +8,8 @@ public class Sample {
 	public void newFunction() {
 		
 	}
+	
+	public void function() {
+		//cr-002
+	}
 }
